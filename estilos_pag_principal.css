@@ -1,0 +1,31 @@
+header{
+    margin: 0;
+    padding: 0;
+}
+
+.encabezado{
+    position: absolute;
+    margin: auto;
+    padding: auto;
+}
+
+.menu_navegacion{
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+
+li{
+    font-size: 1rem;
+    color: white;
+    font-weight: bold;
+}
+
+li input{
+    align-items: center;
+    text-align: center;
+    margin: 25%;
+    padding: auto;
+    background-color: red;
+
+}
